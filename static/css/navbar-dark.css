@@ -1,0 +1,13 @@
+.d-none.d-md-inline.logo{
+    filter: invert(100%);
+}
+.d-md-none.logo{
+    filter: invert(100%);
+}
+
+.nav-link {
+    color: #ebebeb;
+}
+.active {
+    color: #b374da !important;
+}

@@ -1,0 +1,13 @@
+.link{
+    color: #ebebeb;
+    text-decoration: none;
+    transition: all 300ms ease;
+}
+.link:hover{
+    color: #b374da !important;
+}
+
+me-auto.mb-0{
+    color: #ebebeb;
+}
+
